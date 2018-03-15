@@ -1,3 +1,3 @@
 # hello-world
-Just another repository 
-I love my life
+
+Nicole here, learning how to program because it is something I love doing.
